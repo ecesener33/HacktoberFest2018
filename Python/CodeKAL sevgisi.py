@@ -7,6 +7,5 @@ print("CodeKAL'ın bir parçası olmaktan çok mutluyum!")
 print("I love CodeKAL so much")
 print("I am very happy to be a part of CodeKAL!")
 #YAZ: Aynı görevi java programlama dili ile de yaptınız. Bu iki dil arasında gördüğünüz farklar nedir?
-# başına "#" (yorum işareti) koyarak düşüncelerinizi kodun sonuna ekleyiniz.
 # java'da system.out.println python'da ise print kullanılıyor. java da ilk başta public class CodeKal {public static void main(String[] args) yazılıyor ama python'da bu yok
 
